@@ -23,7 +23,7 @@
 
 <p align="center"><b>📈 GiHub Stats</b></p>
 <p align="center">
-  <table width="50%>
+  <table>
     <tr>
       <td align="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=sssfearmot&count_private=true&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
